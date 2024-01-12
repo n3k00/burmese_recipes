@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[Data Resource](https://github.com/sannlynnhtun-coding/Dream-Dictionary)
+[Data Resource](https://github.com/sannlynnhtun-coding/Burmese-Recipes)
 
 [Download Here](https://drive.google.com/file/d/1pu2PZgVwpAN4iGCrkcqIlUeVTmRa2ayp/view?usp=drive_link)
 
